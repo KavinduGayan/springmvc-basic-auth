@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-mvc-basic-auth:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="basicAuth.war">
+      <element id="artifact" artifact-name="spring-mvc-basic-auth:war exploded" />
+    </root>
+  </artifact>
+</component>
